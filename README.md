@@ -22,7 +22,7 @@ UE5.1.0 2D Utility Tool
     - Multiple textures can be changed simultaneously.
 - 日本語
     - ダウンロードしたデータを解凍。
-    - Content フォルダーの中にある「Tools フォルダ」を、あなたのプロジェクトの、Content フォルダの中に入れるだけで使えます。
+    - Content フォルダーの中にある「Tools フォルダ」を、プロジェクトの、Content フォルダの中に入れるだけで使えます。
     - 「Content」フォルダ内であれば、どこに置いても問題ありません。
     - テクスチャを右クリックから、「スクリプト化されたアセットアクション」「Paper2D」「Paper2DTexture Settings」を選択することで、2Dゲーム用のテクスチャ設定が変更できます。
     - 変更箇所は、
