@@ -11,6 +11,7 @@ UE5.1.0 2D Utility Tool
 
 - English
     - Simply place the "Tools folder" in the Content folder of your project.
+    - It does not matter where you place it, as long as it is in the "Content" folder.
     - Texture settings for 2D games can be changed by right-clicking on a texture and selecting "Scripted Asset Actions," "Paper2D," or "Paper2DTexture Settings.
     - The changes are.
         - Mip Gen Settings "NoMipmaps"
@@ -20,6 +21,7 @@ UE5.1.0 2D Utility Tool
     - Multiple textures can be changed simultaneously.
 - 日本語
     - Content フォルダーの中にある「Tools フォルダ」を、あなたのプロジェクトの、Content フォルダの中に入れるだけで使えます。
+    - 「Content」フォルダ内であれば、どこに置いても問題ありません。
     - テクスチャを右クリックから、「スクリプト化されたアセットアクション」「Paper2D」「Paper2DTexture Settings」を選択することで、2Dゲーム用のテクスチャ設定が変更できます。
     - 変更箇所は、
         - Mip Gen Settings 「NoMipmaps」
